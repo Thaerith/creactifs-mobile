@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Creactifs"
 include(":google-maps")
+include(":sensors")
