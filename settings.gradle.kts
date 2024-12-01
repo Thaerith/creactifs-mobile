@@ -1,3 +1,4 @@
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 pluginManagement {
     repositories {
         google {
@@ -22,3 +23,6 @@ dependencyResolutionManagement {
 rootProject.name = "Creactifs"
 include(":google-maps")
 include(":sensors")
+include(":bluetooth-server")
+include(":bluetooth-client")
+include(":bluetooth-shared")
