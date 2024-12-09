@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "be.creactifs.http.composeApp-mergeDebugResources-43:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/benjaminmalengreau/.gradle/caches/transforms-4/e52bb0b2a16cf6e17bfc6c94e43f1c69/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
